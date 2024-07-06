@@ -1,3 +1,5 @@
 # my-resume
 
-To preview my resume via html, please click me on this link: https://htmlpreview.github.io/?https://github.com/YanneseCode/my-resume/blob/main/Index.html
+Hello Everyone, welcome to visit my resume page. Feel free check out my LinkedIn Profile at https://www.linkedin.com/in/yannese-l-b5aa31147/  to view my latest updates and future connection. Thank you for your time.
+
+
